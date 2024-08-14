@@ -615,6 +615,14 @@
     "format": "png"
   }]
 }, {
+  "name": "nibiru",
+  "icons": [{
+    "url": "ipfs://QmZ4ujZagoLozYSypp7uJESgExJhGGJTmmpT6AoDV8GzZW",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "latestChain",
   "icons": [{
     "url": "ipfs://QmUU784i1ZHDNwgXvt9weZmq6YbHHkyXvuDS7r4iDzao72",
@@ -1093,6 +1101,14 @@
     "width": 400,
     "height": 400,
     "format": "svg"
+  }]
+}, {
+  "name": "emctest",
+  "icons": [{
+    "url": "ipfs://QmUDymyXZS9eUn5p3tyDyxhD8GMB91HUBAAvySwENfPevh",
+    "width": 502,
+    "height": 579,
+    "format": "png"
   }]
 }, {
   "name": "hybrid",
@@ -3124,6 +3140,14 @@
     "url": "ipfs://QmfJ1Qxpzi6CSLeFeWY1Bwe435CpT5za5WfrLUE7vNzZfy",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "cratd2c-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreiczmtj47hwgmmtsy3xylhswu4q6rphpt42hznv37shjiaxsx3uqde",
+    "width": 128,
+    "height": 128,
     "format": "png"
   }]
 }, {
